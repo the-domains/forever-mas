@@ -23,7 +23,7 @@ color:
     - '#ff221a'
   brandStrength: 1
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.875
   rhythmicContrast: 0.5
 purpose:
   - name: awareness
